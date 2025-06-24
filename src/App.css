@@ -23,7 +23,6 @@ body {
   position: relative;
 }
 
-/* Background Particles */
 body::before,
 body::after {
   content: '';
@@ -254,7 +253,8 @@ body::after {
   text-align: center;
   min-width: 80px;
   transition: all 0.3s ease;
-  overflow: scroll;
+  flex-direction: column;
+  align-items: center;
 }
 
 .cord div:hover {

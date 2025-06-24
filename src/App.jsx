@@ -35,11 +35,13 @@ const WeatherDetails = ({ icon, temp, city, country, lat, lon, humidity, wind })
       <div className="country">{country}</div>
       <div className="cord">
         <div>
-          <span>Latitude</span>
+          <span>Latitude<br></br></span>
+          
           <span>{lat}</span>
         </div>
         <div>
-          <span>Longitude</span>
+          <span>Longitude<br></br></span>
+          
           <span>{lon}</span>
         </div>
       </div>
