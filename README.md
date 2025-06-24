@@ -25,7 +25,7 @@ Breezemate is a visually engaging and responsive weather application built with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/breezemate.git
+https://github.com/Lalitha-SR/weather-app.git
 cd breezemate
 
 # Install dependencies
